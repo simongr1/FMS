@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : main.c
- Author      : Simon Grimm
+ Author      : Simon
  Version     :
  Copyright   : Your copyright notice
  Description : A FMS Programm
